@@ -15,8 +15,8 @@ const reload = require('livereload')
 // then multiplied by 0.3 to apply some simple gain before going to the output. That's it!
 core.on('load', function() {
   core.render(
-    el.mul(0.3, el.cycle(140)),
-    el.mul(0.3, el.cycle(041)),
+    el.mul(0.3, el.cycle(40)),
+    el.mul(0.3, el.cycle(0141)),
   );
 });
 

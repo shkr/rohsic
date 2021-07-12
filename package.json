@@ -10,5 +10,5 @@
   "license": "ISC",
   "dependencies": {
     "@nick-thompson/elementary": "^0.2.0"
-  },
+  }
 }
